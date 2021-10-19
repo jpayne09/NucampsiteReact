@@ -48,7 +48,7 @@ render(){
                                 </NavLink>
                             </NavItem>
                             <NavItem>
-                                <NavLink className="nav-link" to="/abotus">
+                                <NavLink className="nav-link" to="/aboutus">
                                     <i className="fa fa-info fa-lg" /> About
                                 </NavLink>
                             </NavItem>
